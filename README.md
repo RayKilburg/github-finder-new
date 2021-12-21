@@ -7,7 +7,7 @@
 - This app allows you to search and find Github users.
 - Built with react, and styled with Tailwind & Daisy UI.
 - This app is hosted on Vercel.
-- I am using the Github API to find users.
+- This app is using the Github API.
 - I built this app with help from [Brad Traversy](https://www.udemy.com/course/react-front-to-back-2022/ 'Brad Traversy Udemy'). Watch his videos and tutorials to build apps like this.
 
 <br>
